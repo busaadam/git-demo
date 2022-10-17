@@ -10,5 +10,9 @@ def greeting(name: str):
 
 greeting(name)
 
+<<<<<<< HEAD
 # TODO: Something
 # TODO: implement function
+=======
+# TODO: implement main function
+>>>>>>> refs/remotes/origin/main
