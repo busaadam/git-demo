@@ -9,7 +9,7 @@
 
 ### Code examples
 +
-`git clone <url y`
+inline code `git clone <url y`
 
 ---
 ```bash
