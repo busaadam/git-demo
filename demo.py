@@ -7,4 +7,4 @@ def greeting(name: str):
 
 greeting(name)
 
-# TODO: implement function
+# TODO: implement main function
